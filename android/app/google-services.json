@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644510387679",
+    "project_id": "linkedin-clone-bec71",
+    "storage_bucket": "linkedin-clone-bec71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644510387679:android:f6bdd961c09c202f45486a",
+        "android_client_info": {
+          "package_name": "linkedin_clone.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSJi3tGUZTZu3HzV9KZTpr20eCkYPOp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
